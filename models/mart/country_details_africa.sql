@@ -37,3 +37,4 @@ SELECT
 *
 
 FROM country_details_africa
+ 
